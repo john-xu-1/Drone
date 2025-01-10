@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "drone-app-440214",
+  "private_key_id": "2b7e3b8228ab6ecdb52de398af5787c5e5c97ddc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLBTb+jSriw/u6\nZPAGzBPsOLb4UlyESxtO8gIzZbYxcLPrQbz/kYGGxUi2ZLpLstmmnsskWjXS16p6\n22zejHdPkuu+9UShnO+zYCDRUYvjqqHf0dSZeODOS1UZkT9w8BIvY83YdKYBa829\nU0mMFKY40/gKoTrNKKzf9UHFt28d8xFSFOTBnzmqAKSaRagrY5JGaRGgWkXtzasm\ny+xcmAtXodDPhGAGtNoVnHivxj/yq7WLR4uOnJDYjeCYA0QKgTW3zTI9Grb4rSku\nNFojUF91SHef64KYaBzzWVZtq9I+kUMOROLmAczAJVQZ7d3s2EY1oGWXtePy5ukr\nC9xhUERLAgMBAAECggEAOyyT8PH4lAwHrTaKd5C4JdwKCKsI6E5z8Ti8x3pX9mUh\nK+sHSX6BwGR0YyVM34+LvPL/xuK8WW4e9JxMSTmr9Pef2xLmJCz3+NKF/jzEh2FO\nuUwRqYIAFGEEtuUNFsACrOlsMDEfyb5AQ3SpNTk3kczGuWJxHydB7C0yNIzYyGNx\no7rfLr8N9ohjMs+xi/MH1R30tzK+CAnKrmBzgxn1IDZ7FOWu8uvKkMI8eQ8pWA+w\ncClJRRIFScOSxqvx3CdaRRFawMAt4dHmMMXm9pN4OfthpfEYDFALiI2tikWEBLxy\nXOxU9JWVoXAxBPSN8n4rZK2kHjKSMhKrElE8pj/ZQQKBgQDs8iJWhGMmernyJd3h\nophH4vrOu9bzTtusSZbaPD/ZYtcRJBbkbN3x7fib27R/qVYM3/KR2gDVIDCsI5Up\neXm+z17LJNtda+PCvZyhHtCDX6zAY4GuMuof1KJp/6nTMLnNGabBg/pA0OP3bKWa\ne3CPwXfFvBe2EtlowBqHOBoucQKBgQDbWK1IgG2EkaPlePMz0SEC0jZZ+1R7B7IW\nIJN5YRvbg0H64wjdWFlCUHpT2GO8z/s+edRhRPReGThlgHtkJAesWTLSLFZrSzp1\nAwutl8dcUdBqlk1kLaHoT/1qWmZ6iMhvo2uwGWKDxcrwKTot9ZkqqYmP274fqSXM\nC0AKoJ00ewKBgFtzAIm/wrzBNS8eKkrBhGCKXB6aJNX3I5WVOWG1SzdNjJATC7rR\nwb90BzWwUDPNWWbSsD5Wk2euatqlSRaeybw5MO7apMejsl4g7GjLCdMKhBQk05I2\nGGJ8oMqkYBkgfzWHpvKdS2LkvHdsOWYsKj9xfhaVB9m/4KUrL5Hstz4hAoGBAKbp\n6Rsl17Es3sqNaoyA1Jz/+CorDhN9PLCH45FXK0q0rG3NfH5rb6j98siA/wy8O9VE\nAjBut4IvsPHUfpEqtcgaLIkxAiYtnfNS+P0FZcjD3VRuwb+81dshm5bl6dvO4K/L\nbPQZrRTXW+G7jbFRlleXob2eGySeo8uMuBQeOuKnAoGBAMT/o99ypFtIcwRAHgpe\noZ8DOMy+4OnG7xVphiGWSois0l4frrsk/uaEl1GxXGDnUUuhIA5KnQRdu21bm5P6\n2gFofjAZBkOcvlO4SebJfAR7E0UzsRYPpJqBw7QD/8xJi7mZ1eH8UG6E7U0OseAw\nv53HEhDuWIb/xEpobFuX1DSD\n-----END PRIVATE KEY-----\n",
+  "client_email": "drone-upload@drone-app-440214.iam.gserviceaccount.com",
+  "client_id": "105249636008183293723",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drone-upload%40drone-app-440214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
